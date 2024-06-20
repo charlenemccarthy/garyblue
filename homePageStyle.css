@@ -280,6 +280,9 @@
   font-style: var(--body-text-font-style);
 }
 
+.text-wrapper-7 a {
+  color: black;
+}
 .landing-page .button {
   all: unset;
   box-sizing: border-box;
@@ -307,6 +310,14 @@
   line-height: var(--small-text-line-height);
   white-space: nowrap;
   font-style: var(--small-text-font-style);
+}
+
+.text-wrapper-8 a {
+  color: white;
+}
+
+.text-wrapper-8 a:visited {
+  color: white;
 }
 
 .landing-page .text-wrapper-9 {
@@ -449,6 +460,10 @@
   box-shadow: var(--button-shadow);
 }
 
+.element-button-secondary a {
+  color: black;
+}
+
 .landing-page .p {
   position: relative;
   width: fit-content;
@@ -472,6 +487,14 @@
   font-size: 48px;
   letter-spacing: 0;
   line-height: 52.8px;
+}
+
+.text-wrapper-11 a {
+  color: black;
+}
+
+.text-wrapper-11 a:hover {
+  color: #304f60;
 }
 
 .landing-page .text-wrapper-12 {
@@ -523,6 +546,7 @@
   align-items: flex-start;
   gap: var(--variable-collection-spacing-XS);
   position: absolute;
+  margin-top: 40px;
 }
 
 .landing-page .welcome-to-gary-blue {
