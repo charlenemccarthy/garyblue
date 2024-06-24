@@ -1447,7 +1447,7 @@
 .ordering-page .text-wrapper-28 {
   position: relative;
   width: fit-content;
-  font-family: "Inter", Helvetica;
+  font-family: "Inter-Medium", Helvetica;
   font-weight: 500;
   color: #000000;
   font-size: 24px;
@@ -1469,4 +1469,16 @@
   text-align: center;
   border-radius: 5px;
   box-shadow: var(--button-shadow);
+}
+
+.paymentButton {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 36px;
+  white-space: nowrap;
 }
