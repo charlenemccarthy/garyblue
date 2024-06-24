@@ -435,9 +435,6 @@
   top: 2px;
   left: 2px;
   border-radius: 10px;
-  overflow: hidden;
-  border: 2px solid;
-  border-color: var(--user-accent-coloruac-light);
 }
 
 .ordering-page .circle {
