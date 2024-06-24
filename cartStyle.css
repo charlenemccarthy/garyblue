@@ -1439,3 +1439,12 @@
   width: 46px;
   height: 14.73px;
 }
+
+.selectButton {
+  width: 60px;
+  height: 30px;
+  font-size: medium;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: var(--button-shadow);
+}
