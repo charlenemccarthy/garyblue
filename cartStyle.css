@@ -147,8 +147,6 @@
   flex-direction: column;
   align-items: flex-start;
   padding: 8px 0px;
-  border: 1px solid;
-  border-color: var(--greygrey-45);
   display: flex;
   position: relative;
   align-self: stretch;
@@ -1042,6 +1040,10 @@
   font-style: var(--body-text-font-style);
 }
 
+.text-wrapper-13 a {
+  color: black;
+}
+
 .ordering-page .button {
   all: unset;
   box-sizing: border-box;
@@ -1068,6 +1070,14 @@
   letter-spacing: 0;
   line-height: 24px;
   white-space: nowrap;
+}
+
+.text-wrapper-14 a {
+  color: white;
+}
+
+.text-wrapper-14 a:visited {
+  color: white;
 }
 
 .ordering-page .text-wrapper-15 {
