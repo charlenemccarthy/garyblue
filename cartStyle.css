@@ -1471,6 +1471,13 @@
   box-shadow: var(--button-shadow);
 }
 
+.selectButton:hover {
+  color: #4c7e99;
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  transition: 1s;
+}
+
 .paymentButton {
   position: relative;
   width: fit-content;
@@ -1483,4 +1490,8 @@
   white-space: nowrap;
   border: none;
   background-color: #b5e4ff;
+}
+
+.paymentButton:hover {
+  color: #4c7e99;
 }
