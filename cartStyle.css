@@ -1481,4 +1481,6 @@
   letter-spacing: 0;
   line-height: 36px;
   white-space: nowrap;
+  border: none;
+  background-color: #b5e4ff;
 }
