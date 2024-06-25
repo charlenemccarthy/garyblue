@@ -8,4 +8,12 @@
 
 //Remove from Cart
 
-//Calculate Price
+//Calculate Item Total (Based on Quantity)
+
+//Calculate Sub-Total
+
+//Calculate HST
+
+//Calculate Total
+
+//
